@@ -62,10 +62,6 @@ Created and maintained by [Aditya Yadav](https://github.com/Adityeah18).
 This project is licensed under the [Apache License 2.0](LICENSE).
 
 
----
 
-## Author
-
-Created and maintained by [Aditya Yadav](https://github.com/Adityeah18).
 
 
