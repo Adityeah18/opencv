@@ -50,7 +50,7 @@ print("The data type is: ",cb_img.dtype)
 #Displaying the images using the matplotlib
 plt.imshow(cb_img) #Using matplotlib.pyplot function imshow
 
-"""⚠️ **Notice:**  
+""" **Notice:**  
 We didn't tell `imshow()` that the image is grayscale, so it applied its default color scheme. To display it properly:
 
 """
