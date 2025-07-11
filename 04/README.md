@@ -18,9 +18,9 @@ This module covers foundational techniques in image processing using OpenCV, foc
 
 ##  Files Included
 
-- `04_image_enhancement_bitwise.py` — Python script version of this module
-- `04_image_enhancement_bitwise.ipynb` — Jupyter/Colab notebook
-- `essential images` - varoius .jpg and .pngg
+- `04_image_enhancement_bitwise.py` - Python script version of this module
+- `04_image_enhancement_bitwise.ipynb` - Jupyter/Colab notebook
+- `essential images` - varoius .jpg and .png
 
 ---
 
