@@ -4,7 +4,7 @@ This module covers foundational techniques in image processing using OpenCV, foc
 
 ---
 
-## 📘 What You'll Learn
+##  What You'll Learn
 
 - Brightness & Contrast adjustment
 - Global & Adaptive thresholding
@@ -16,7 +16,7 @@ This module covers foundational techniques in image processing using OpenCV, foc
 
 ---
 
-## 📂 Files Included
+##  Files Included
 
 - `04_image_enhancement_bitwise.py` — Python script version of this module
 - `04_image_enhancement_bitwise.ipynb` — Jupyter/Colab notebook
