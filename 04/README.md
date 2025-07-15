@@ -41,6 +41,6 @@ This module covers foundational techniques in image processing using OpenCV, foc
 
 ## 📜 License
 
-This project is licensed under the [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0).
+This project is licensed under the [![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0).
 
 
