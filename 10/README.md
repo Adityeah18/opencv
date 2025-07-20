@@ -1,16 +1,29 @@
-#  Module 10 – Object Tracking 
+#  Module 10: Image Tracking with OpenCV GOTURN
 
-This module demonstrates object tracking using various OpenCV trackers such as MOSSE, KCF, CSRT, and others.
+Object tracking is a crucial part of modern computer vision applications — from surveillance to self-driving cars. This module demonstrates object tracking using OpenCV’s GOTURN tracker — which combines traditional tracking with deep learning (via `.caffemodel`).
 
 ---
 
-##   What You'll Learn
+##  Important Notice Before You Begin
 
-- Understanding multiple object trackers in OpenCV
-- How to initialize and switch between trackers
-- Using bounding boxes for tracking
-- Displaying and saving the tracking output
-- Using OpenCV’s `legacy` module for backward-compatible APIs
+> ⚠️ **This module uses the GOTURN tracker**, which requires a `.caffemodel` and `.prototxt` file. These files are not included in this repository due to GitHub's 100 MB limit.
+
+Instead, download the goturn.caffemodel from this public GitHub repo:
+ [https://github.com/Mogball/goturn-files](https://github.com/Mogball/goturn-files)
+
+Place the following two file in the same directory as your Python script:
+- `goturn.caffemodel`
+
+
+ *Colab may not support GOTURN out of the box due to model size and OpenCV build limitations. It’s highly recommended to run this module locally using `opencv-contrib-python`.*
+
+---
+
+##  Requirements
+
+```bash
+pip install opencv-python opencv-contrib-python
+```
 
 ---
 
@@ -18,7 +31,7 @@ This module demonstrates object tracking using various OpenCV trackers such as M
 
 - `10_object_tracking.py` – Python script version of this module  
 - `race_car.mp4` – Sample input video (must be placed in the same directory)
-
+- `goturn.prototxt`
 ---
 
 ## ⚙️ Requirements
