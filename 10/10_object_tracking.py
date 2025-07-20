@@ -83,5 +83,7 @@ while True:
 input_video.release() #Reloccates the memory by clearing the processes
 cv2.destroyAllWindows() #Closing the opened window tab after completion of video , or error in program
 
+# > ⚠️ use the cv2.VideoWrite to save the videos
+
 
 
