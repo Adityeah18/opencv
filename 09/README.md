@@ -46,31 +46,30 @@ This notebook walks through the full pipeline of panorama creation:
 ---
 ##  Navigation
 
-[![➡️ Module 08](https://img.shields.io/badge/Module-08-000000?style=for-the-badge&logo=github&logoColor=00FF80)](https://github.com/Adityeah18/opencv/tree/main/08)
+[![➡️ Module 08](https://img.shields.io/badge/Module-08-000000?style=for-the-badge&logo=github&logoColor=00FF80)](https://github.com/aypy01/opencv/tree/main/08)
 &nbsp;&nbsp;&nbsp;&nbsp;
-[![➡️ Module 10](https://img.shields.io/badge/Module-10-000000?style=for-the-badge&logo=github&logoColor=00FF80)](https://github.com/Adityeah18/opencv/tree/main/10)
+[![➡️ Module 10](https://img.shields.io/badge/Module-10-000000?style=for-the-badge&logo=github&logoColor=00FF80)](https://github.com/aypy01/opencv/tree/main/10)
 
 ---
 
-##  Author
-<p align="left">
+## Author
+ <p align="left">
+  Created and maintained by 
+  <a href="https://github.com/aypy01" target="_blank">&nbsp Aaditya Yadav</a>&nbsp 
   <a href="https://github.com/aypy01" target="_blank">
-    <img src="https://img.shields.io/badge/aypy01-000000?style=flat-square&logo=github&logoColor=00FF80" />
+    <img src="https://img.shields.io/badge/aypy01-000000?style=flat-square&logo=github&logoColor=00FF80" alt="GitHub Badge"/>
   </a>
 </p>
 
+</p>
 <p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=00FF80&center=false&vCenter=false&width=440&lines=Break+Things+First%2C+Understand+Later;Built+to+Debug%2C+Not+Repeat;Learning+What+Actually+Sticks;Code.+Observe.+Refine." alt="Typing SVG" />
 </p>
-
 
 ---
 
 ##  License
 
 This project is licensed under the [![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0).
-
-
-
 
 
