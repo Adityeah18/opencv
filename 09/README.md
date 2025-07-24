@@ -52,14 +52,10 @@ This notebook walks through the full pipeline of panorama creation:
 
 ---
 
-
-
-
-
 ##  Author
 <p align="left">
-  <a href="https://github.com/Adityeah18" target="_blank">
-    <img src="https://img.shields.io/badge/Adityeah18-000000?style=flat-square&logo=github&logoColor=00FF80" />
+  <a href="https://github.com/aypy01" target="_blank">
+    <img src="https://img.shields.io/badge/aypy01-000000?style=flat-square&logo=github&logoColor=00FF80" />
   </a>
 </p>
 
