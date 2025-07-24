@@ -1,5 +1,12 @@
 #  Module 10: Image Tracking with OpenCV GOTURN
 
+---
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2800&pause=400&color=00FF80&center=false&vCenter=false&width=510&lines=Module+10%3A+Image+Tracking+with+OpenCV;Deep+Learning+%2B+Traditional+Tracking;Real-Time+GOTURN+Based+Tracking;.caffemodel+%7C+DNN+%7C+cv2.TrackerGOTURN;From+Surveillance+to+Self-Driving+Cars" alt="Typing SVG" />
+</p>
+
+---
+
 Object tracking is a crucial part of modern computer vision applications — from surveillance to self-driving cars. This module demonstrates object tracking using OpenCV’s GOTURN tracker — which combines traditional tracking with deep learning (via `.caffemodel`).
 
 ---
@@ -83,25 +90,34 @@ pip install opencv-python opencv-contrib-python
 10. **Cleanup**
     - Release all video handles and destroy OpenCV windows
     - Print output file path or tracking status
----
-## 🔗 Navigation
-
-[![⬅️ Module 09](https://img.shields.io/badge/Module-09-blue?style=for-the-badge&logo=github)](https://github.com/Adityeah18/opencv/tree/main/09)
-&nbsp;&nbsp;&nbsp;
-[![➡️ Module 11](https://img.shields.io/badge/Module-11-blue?style=for-the-badge&logo=github)](https://github.com/Adityeah18/opencv/tree/main/11)
 
 ---
+##  Navigation
 
-## 🧑‍💻 Author
-
-**Aaditya**  
-[GitHub Profile](https://github.com/Adityeah18)
+[![➡️ Module 09](https://img.shields.io/badge/Module-09-000000?style=for-the-badge&logo=github&logoColor=00FF80)](https://github.com/aypy01/opencv/tree/main/09)
+&nbsp;&nbsp;&nbsp;&nbsp;
+[![➡️ Module 11](https://img.shields.io/badge/Module-11-000000?style=for-the-badge&logo=github&logoColor=00FF80)](https://github.com/aypy01/opencv/tree/main/11)
 
 ---
 
-## 📜 License
+## Author
+ <p align="left">
+  Created and maintained by 
+  <a href="https://github.com/aypy01" target="_blank">&nbsp Aaditya Yadav</a>&nbsp 
+  <a href="https://github.com/aypy01" target="_blank">
+    <img src="https://img.shields.io/badge/aypy01-000000?style=flat-square&logo=github&logoColor=00FF80" alt="GitHub Badge"/>
+  </a>
+</p>
+
+</p>
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=00FF80&center=false&vCenter=false&width=440&lines=Break+Things+First%2C+Understand+Later;Built+to+Debug%2C+Not+Repeat;Learning+What+Actually+Sticks;Code.+Observe.+Refine." alt="Typing SVG" />
+</p>
+
+---
+
+##  License
 
 This project is licensed under the [![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0).
-
 
 
