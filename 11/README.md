@@ -15,11 +15,11 @@ Supports **high confidence face detection**, with bounding boxes and live infere
 
 ---
 
-## 📦 Files Used
+##  Files Used
 
 - `deploy.prototxt`: Model architecture for the SSD face detector.
 - `res10_300x300_ssd_iter_140000_fp16.caffemodel`: Pre-trained weights (300×300 SSD).
-- `face_detection.py`: Main Python script to capture webcam input and perform detection.
+- `11_face_detection.py`: Main Python script to capture webcam input and perform detection.
 
 ---
 
@@ -35,7 +35,7 @@ Supports **high confidence face detection**, with bounding boxes and live infere
 
 ---
 
-## ⚙️ Setup
+##  Setup
 
 ### 1. Install dependencies
 ```bash
