@@ -1,4 +1,4 @@
-#  Module 13: Human Pose Estimation with OpenCV  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1jb_7r_Eo1CuuwKgF6A1nGujSBO-qRrk4?usp=sharing)
+#  Module 13: Pose Estimation with OpenPose  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1jb_7r_Eo1CuuwKgF6A1nGujSBO-qRrk4?usp=sharing)
 
 ---
 <p align="left">
